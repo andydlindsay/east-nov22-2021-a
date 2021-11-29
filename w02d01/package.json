@@ -1,0 +1,21 @@
+{
+  "name": "w02d01",
+  "version": "1.0.0",
+  "description": "Example code and notes for week 2 day 1 lecture",
+  "main": "",
+  "scripts": {
+    "test": "mocha",
+    "list": "ls -l"
+  },
+  "keywords": [
+    "testing",
+    "tdd",
+    "fun"
+  ],
+  "author": "Andy Lindsay",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.3.4",
+    "mocha": "^9.1.3"
+  }
+}
